@@ -1,20 +1,24 @@
 # Wardens of Zyr
-
+![Warden](./warden.png)
 **Type:** Primordial Guardian / Humanoid-Beast Hybrid\
-**Habitat:** [Primordial Forest Name] (e.g., Syltharyn, Vael’thyr)\
+**Habitat:** Nythra\
 **Rarity:** Legendary (Awakened only in times of grave imbalance)
 
 ---
 
-## Origins
-> *"Before time was measured, Zyr carved guardians from the Heartwood’s bark and the strength of the mightiest stags."*
+## Overview
 
-- **Creator:** Zyr, God of Balance
-- **Purpose:** Protect the world from the violent clash of **Verdan** (wild, untamed life) and **Mortis** (decay and stillness).
-- **Birth:** Not born, but **awakened** when the forest senses:
-  - A massive imbalance
-  - Defilement of nature
-  - Threats to the Heartwood
+**Wardens of Zyr** are the silent sentinels of Nythra, ancient guardians carved from the bark of the **Heartwood** and imbued with the strength of the forest's mightiest stags. Not born, but awakened when the forest senses imbalance or threat, they are the will of **Zyr** made manifest—living embodiments of nature's wrath and wisdom.
+
+---
+
+## Origins
+
+> *"Before time was measured—when no beings with cognitive thought yet wandered the world—Zyr carved guardians from the Heartwood's bark and the strength of the mightiest stags. They lie dormant, waiting for the forest's call."*
+
+- **Created by Zyr:** The first Wardens were carved before sentient life arose, lying dormant within the Heartwood.
+- **Awakening:** When Nythra senses danger, corruption, or imbalance, the Heartwood awakens Wardens from their slumber. More can be awakened as the forest's need grows.
+- **Purpose:** To guard the Heartwood, preserve the balance between Verdan and Mortis, and purge corruption from Nythra.
 
 ---
 
@@ -25,7 +29,7 @@
 - **Skin:** Bark-like armor, hardened by centuries of slumber
 - **Eyes:** Emerald, burning with Zyr’s will
 - **Antlers:** Living conduits of forest magic
-- **Blood:** Shimmering sap, linked to the Heartwood
+- **Blood:** Shimmering sap, linked to the Heartwood. When a Warden falls, its body becomes a grove whose roots reconnect to the Heartwood, returning its energy to Nythra's magical ecosystem.
 
 ### Aura
 - Moss and fungi feed on their magic, not the other way around.
@@ -51,6 +55,10 @@
 
 ## Abilities
 
+### Wild Magic Immunity
+- **Connection to Nythra:** Because Wardens are carved from the Heartwood, they possess a direct connection to Nythra, making them immune to the chaotic effects of wild magic.
+- **Channeling Power:** The most ancient Wardens have learned to channel wild magic, bending its raw power to their will—a feat impossible for any being without a bond to the forest.
+
 | Ability               | Description                                                                                     |
 |-----------------------|-------------------------------------------------------------------------------------------------|
 | **Rooting Gaze**      | Can literally root a soul in place.                                                            |
@@ -58,32 +66,30 @@
 | **Magic Hum**         | Bowstrings hum when danger approaches.                                                         |
 | **Elemental Grove**   | If a Warden falls, its body becomes a new grove, a permanent scar of magic.                     |
 | **Time Distortion**   | Minutes may become days in their presence.                                                     |
-| **Wild Magic Absorption** | Flora near them consumes mana—or flesh.                                                     |
+| **Wild Magic Absorption** | Flora near them consumes ambient mana from their surroundings—or the flesh of intruders. This effect intensifies in their presence.                                                     |
 
 ---
 
 ## Ecology
 
-### Role in the Ecosystem
-- **Guardians of Balance:** Intervene when:
-  - Wild magic is controlled or harvested
-  - Life spreads too fast or becomes corrupted
-  - Death overtakes without renewal
+### Role in Nythra
+- **Guardians of the Heartwood:** Their primary duty is to defend the tree from those who would exploit or harm it.
+- **Balance Keepers:** They cull overgrowth, purge corruption, and ensure neither Verdan nor Mortis dominates.
+- **Living Legends:** Few have seen a Warden and lived to tell the tale. To most, they are myths whispered by druids.
 
-### Reproduction
-- **Not Applicable:** Wardens are not born or reproduced; they are **awakened** from the Heartwood.
-
-### Lifespan
-- **Ageless:** Return to stillness when balance is restored.
+### Death and Rebirth
+- **No True Death:** When a Warden "falls," its body sinks into the earth, sprouting a new grove. These groves are sacred—and deadly to trespassers.
+- **Grove Connection:** The roots of these groves reconnect to the Heartwood through Nythra's vast root network, ensuring the fallen Warden's energy returns to fuel the forest's magical ecosystem.
+- **Reawakening:** Some believe fallen Wardens can be reborn if the Heartwood wills it, emerging from their groves when the forest faces its darkest hour.
 
 ---
 
 ## Lore and Legends
 
 ### Cultural Significance
-- **Feared and Revered:** Most civilizations avoid the Primordial Forest.
+- **Forbidden Guardians:** Most civilizations near Nythra consider the Wardens sacred—and off-limits.
 - **Prophecy:**
-  > *"When the world’s balance snaps, bark will break, and the Wardens of Zyr will march east."*
+  > *"When the Heartwood weeps, Zyr will walk among mortals once more. The Wardens will rise, and the world will be remade in balance—or unmade entirely."*
 
 ### Notable Encounters
 - **The Green-Touched:** Those who return from the forest are forever changed, hearing whispers of the leaves.
