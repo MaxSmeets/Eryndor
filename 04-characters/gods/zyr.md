@@ -36,9 +36,8 @@ Unlike gods who favor one force over the other, Zyr exists to ensure neither dom
 
 Zyr does not take a single form but is often depicted as:
 
-- A towering figure split in contrast: one radiant with blooming life, the other withered and skeletal.
-- Two colossal intertwined serpents—one vibrant and the other ashen and still.
-- A silent hooded figure with hands pressed to the Heartwood’s exposed roots.
+- A towering hooded figure rooted into Nythra's soil. Often depicted with hands pressed to the Heartwood's exposed roots.
+- Two colossal serpents—one vibrant and the other ashen and still. While not a direct manifestation of Zyr, these refer to Zyr's most trusted advisors which are mostly unknown to the common folk.
 
 Manifestations in the mortal realm are subtle yet unmistakable:
 
