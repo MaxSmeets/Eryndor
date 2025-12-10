@@ -1,7 +1,7 @@
 # The Heartwood
-
+![The Heartwood](./the_heartwood.jpg)
 **Type:** Divine Tree / Source of Wild Magic\
-**Location:** Center of [Primordial Forest Name] (e.g., Syltharyn, Vael’thyr)\
+**Location:** Center of Nythra\
 **Significance:** The nexus of **Verdan** and **Mortis**, the raw forces of life and decay
 
 ---
@@ -24,11 +24,11 @@
 
 ## Origins
 
-> *"Where Verdan and Mortis clashed most violently, Zyr planted a final seed: the Heartwood."*
+> *"Where Verdan and Mortis clashed most violently, Zyr found a sapling touched by both forces. He nurtured it into the Heartwood."*
 
-- **Creation:** Born from the clash of life and decay, planted by Zyr to stabilize the world.
+- **Discovery:** Zyr stumbled upon this ancient sapling during his exploration of the newborn world, recognizing its potential as a living anchor.
 - **Purpose:** Acts as a **living anchor** for the Balance, preventing either force from overwhelming the other.
-- **Connection to Wardens:** The Wardens are carved from its bark and draw their power from its roots.
+- **Connection to Wardens:** The first Wardens were carved from its bark before time was measured—when no beings with cognitive thought yet wandered the world. They lie dormant within the Heartwood, awakening when the forest senses danger. More can be awakened as needed.
 
 ---
 
@@ -40,7 +40,7 @@
 - **Cycle of Life and Decay:** The tree absorbs corruption and rebirths it as pure energy, maintaining equilibrium.
 
 ### Symbiotic Relationships
-- **Wardens:** Awakened from its bark, they act as its will made manifest.
+- **Wardens:** Initially carved from its bark and imbued with the strength of Nythra's mightiest stags, they lie dormant within the tree until awakened. When a Warden falls, its body becomes a grove whose roots reconnect to the Heartwood, returning its energy to the forest's magical ecosystem.
 - **Flora and Fauna:** Plants and creatures near the Heartwood are twisted by its magic—some become sentient, others grow monstrous.
 - **Druids and Mages:** Rare individuals who brave the forest seek its sap or leaves for rituals, but most who try are consumed or driven mad.
 
@@ -64,7 +64,7 @@
 - **Forbidden:** Most civilizations consider the Heartwood sacred—and off-limits.
 - **Druidic Trials:** Some orders send acolytes to retrieve a leaf or sap as a rite of passage. Few return.
 - **The Final Prophecy:**
-  > *"When the Heartwood weeps, the Wardens will rise, and the world will be remade in balance—or unmade entirely."*
+  > *"When the Heartwood weeps, Zyr will walk among mortals once more. The Wardens will rise, and the world will be remade in balance—or unmade entirely."*
 
 ### Notable Events
 - **The Sundering:** A forgotten empire once tried to harvest the Heartwood. The forest swallowed their kingdom whole.
@@ -77,7 +77,7 @@
 ---
 
 ## Hazards
-- **Wild Magic Surges:** Spells cast near the Heartwood may backfire or amplify uncontrollably.
+- **Wild Magic Surges:** Wild magic is uncontrollable to any entity without a direct connection to Nythra. Spells cast near the Heartwood by outsiders may backfire or amplify uncontrollably.
 - **The Hungry Grove:** Areas where the roots have "tasted" blood become permanently hostile, spawning twisted creatures.
 - **Time Loops:** Travelers report reliving the same moments, trapped until the tree deems them "balanced."
 
