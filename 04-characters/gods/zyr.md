@@ -1,5 +1,5 @@
 # Zyr, the Creator God of Balance
-
+![Zyr](./zyr.png)
 ---
 
 ## Overview
@@ -17,14 +17,18 @@
 
 ## Origins
 
-> *"Before time was measured, there was only the clash of Verdan and Mortis—wild, untamed life and the creeping stillness of decay. From their chaos, Zyr emerged, not to conquer, but to balance."*
+> *"Before time was measured—before beings with cognitive thought wandered the world—there was only the clash of Verdan and Mortis—wild, untamed life and the creeping stillness of decay. From their chaos, Zyr emerged, not to conquer, but to balance."*
 
 Zyr is the primordial deity who shaped the world from the violent collision of two fundamental forces:
 
 - **Verdan** — the essence of unchecked growth and vitality.  
 - **Mortis** — the inevitability of decay and entropy.
 
-Unlike gods who favor one force over the other, Zyr exists to ensure neither dominates. The world, in Zyr’s design, is a delicate scale—one that must never tip too far.
+When the forces of life and decay threatened to tear the newborn world apart, Zyr intervened, actively taking on the responsibility as the divine keeper of balance. During his exploration of this chaotic realm, he discovered a sapling touched by both Verdan and Mortis—a tree with the potential to anchor the warring forces. Zyr nurtured this sapling into the **Heartwood**, the living nexus of balance at the center of **Nythra**.
+
+From the Heartwood's bark and the strength of Nythra's mightiest stags, Zyr carved the first **Wardens**—guardians who would lie dormant within the tree, awakening when the forest sensed danger. More Wardens can be awakened as needed to maintain the balance.
+
+Unlike gods who favor one force over the other, Zyr exists to ensure neither dominates. The world, in Zyr's design, is a delicate scale—one that must never tip too far.
 
 ---
 
@@ -47,7 +51,7 @@ Manifestations in the mortal realm are subtle yet unmistakable:
 ## Domains and Influence
 
 ### Balance  
-Zyr’s influence ensures harmony through:
+Zyr's influence ensures harmony through:
 
 - Seasonal cycles
 - Predator-prey dynamics
@@ -55,10 +59,10 @@ Zyr’s influence ensures harmony through:
 - The very balance between life and death
 
 ### Creation  
-Zyr shapes existence rather than **making from nothing**. The Heartwood, the Wardens, and wild magic are extensions of Zyr’s stabilizing will.
+Zyr shapes existence rather than **making from nothing**. The Heartwood (found and nurtured), the Wardens, and wild magic are extensions of Zyr's stabilizing will.
 
 ### Wild Magic  
-Raw and uncontrollable — it **is**, not **controlled**. Those who attempt mastery are often consumed.
+Raw and uncontrollable to any entity without a direct connection to Nythra. Those who attempt mastery without such a bond are often consumed or driven mad. However, beings directly tied to the Heartwood—such as the Wardens—are immune to wild magic's chaotic nature. The most ancient Wardens have even learned to channel these powers.
 
 ---
 
@@ -76,8 +80,8 @@ Zyr is revered by:
 
 | Location | Significance |
 |---------|--------------|
-| **The Heartwood** | The center of Zyr’s presence — pilgrims offer paired opposites (water & stone, seed & ash). |
-| **The Grove of Whispers** | Wind carries Zyr’s will to those who listen. |
+| **The Heartwood** | The center of Zyr's presence in Nythra — pilgrims offer paired opposites (water & stone, seed & ash). |
+| **The Grove of Whispers** | Wind carries Zyr's will to those who listen. |
 | **The Ashen Vale** | Life and death coexist in perfect equilibrium. |
 
 ### Rituals
@@ -95,10 +99,9 @@ A kingdom once tried to harness the Heartwood for immortality. The land rose and
 
 ### The Final Prophecy
 
-> *“When the scales of the world snap, and the Heartwood weeps sap like tears,  
+> *"When the scales of the world snap, and the Heartwood weeps sap like tears,  
 > Zyr will walk among mortals once more.  
-> The Wardens will rise, and all will be judged—  
-> not for their sins, but for the weight of their harmony.”*
+> The Wardens will rise, and the world will be remade in balance—or unmade entirely."*
 
 Some call it doom. Others — renewal.
 
